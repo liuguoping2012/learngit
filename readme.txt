@@ -1,4 +1,6 @@
 Git is version control system.
 Git is free software.
-Thank you very mache.
+Thank your very mache.
 Git is very easy.
+Add a new line word.
+
