@@ -1,4 +1,4 @@
-Version 1.01
+Version 1.02
 Git is version control system.
 Git is free software.
 Thank your very mache.
